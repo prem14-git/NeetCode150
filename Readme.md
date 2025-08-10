@@ -21,9 +21,7 @@
 - [Topics Covered](#-topics-covered)
 - [Solution Structure](#-solution-structure)
 - [Getting Started](#-getting-started)
-- [Contributing](#-contributing)
 - [Connect With Me](#-connect-with-me)
-- [License](#-license)
 
 ---
 
@@ -224,23 +222,6 @@ update_progress.bat
 - ✅ Updates the progress table in README.md
 - ✅ Shows visual progress bars in terminal
 - ✅ Creates missing directory structure automatically
-
-## 🤝 Contributing
-
-Contributions are welcome! Here's how you can help:
-
-1. **Fork** the repository
-2. **Create** a feature branch (`git checkout -b feature/amazing-solution`)
-3. **Commit** your changes (`git commit -m 'Add amazing solution'`)
-4. **Push** to the branch (`git push origin feature/amazing-solution`)
-5. **Open** a Pull Request
-
-### Contribution Guidelines
-- Follow the existing code style and structure
-- Add comprehensive comments and explanations
-- Include test cases for your solutions
-- Update the progress tracking in README.md
-- Ensure all solutions compile and run correctly
 
 ---
 
