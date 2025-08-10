@@ -17,7 +17,6 @@
 
 ## 📋 Table of Contents
 - [About](#-about)
-- [Progress Tracking](#-progress-tracking)
 - [Topics Covered](#-topics-covered)
 - [Solution Structure](#-solution-structure)
 - [Getting Started](#-getting-started)
@@ -43,41 +42,6 @@ The NeetCode 150 list is specifically designed to cover the most common patterns
 - **Algorithm Design** and optimization
 - **Problem-solving** skills development
 
----
-
-## 📊 Progress Tracking
-
-### Overall Progress
-- **Total Problems**: 150
-- **Completed**: 0/150 (0%)
-- **In Progress**: 0
-- **Not Started**: 150
-
-*Progress is automatically updated when you run `python update_progress.py`*
-
-### Progress by Category
-| Category | Completed | Total | Progress |
-|----------|-----------|-------|----------|
-| Arrays & Hashing | 0 | 9 | 0% |
-| Two Pointers | 0 | 5 | 0% |
-| Sliding Window | 0 | 6 | 0% |
-| Stack | 0 | 7 | 0% |
-| Binary Search | 0 | 7 | 0% |
-| Linked List | 0 | 10 | 0% |
-| Trees | 0 | 15 | 0% |
-| Heap / Priority Queue | 0 | 7 | 0% |
-| Backtracking | 0 | 9 | 0% |
-| Tries | 0 | 6 | 0% |
-| Graphs | 0 | 13 | 0% |
-| Advanced Graphs | 0 | 9 | 0% |
-| 1-D Dynamic Programming | 0 | 12 | 0% |
-| 2-D Dynamic Programming | 0 | 8 | 0% |
-| Greedy | 0 | 5 | 0% |
-| Intervals | 0 | 6 | 0% |
-| Math & Geometry | 0 | 4 | 0% |
-| Bit Manipulation | 0 | 4 | 0% |
-
----
 
 ## 🗂 Topics Covered
 
