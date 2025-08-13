@@ -45,73 +45,41 @@ The NeetCode 150 list is specifically designed to cover the most common patterns
 
 ## 🗂 Topics Covered
 
-### 🔢 **Arrays & Hashing** (15 problems)
-- Two Sum, Valid Anagram, Contains Duplicate
-- Group Anagrams, Top K Frequent Elements
-- Product of Array Except Self, Valid Sudoku
+### 🔢 **Arrays & Hashing** (9 problems)
 
-### 👆 **Two Pointers** (7 problems)
-- Valid Palindrome, Two Sum II
-- 3Sum, Container With Most Water
-- Trapping Rain Water
+### 👆 **Two Pointers** (5 problems)
 
 ### 🪟 **Sliding Window** (6 problems)
-- Best Time to Buy and Sell Stock
-- Longest Substring Without Repeating Characters
-- Minimum Window Substring
 
 ### 📚 **Stack** (7 problems)
-- Valid Parentheses, Min Stack
-- Evaluate Reverse Polish Notation
-- Generate Parentheses
 
 ### 🔍 **Binary Search** (7 problems)
-- Binary Search, Search a 2D Matrix
-- Koko Eating Bananas, Find Minimum in Rotated Sorted Array
 
-### 🔗 **Linked List** (10 problems)
-- Reverse Linked List, Merge Two Sorted Lists
-- Linked List Cycle, Remove Nth Node From End
+### 🔗 **Linked List** (11 problems)
 
 ### 🌳 **Trees** (15 problems)
-- Maximum Depth of Binary Tree, Same Tree
-- Binary Tree Level Order Traversal, Validate Binary Search Tree
 
-### 🔤 **Tries** (6 problems)
-- Implement Trie, Design Add and Search Words Data Structure
-- Word Search II
+### 🔤 **Tries** (3 problems)
 
 ### ⚡ **Heap / Priority Queue** (7 problems)
-- Kth Largest Element in an Array
-- Merge K Sorted Lists, Find Median from Data Stream
 
 ### 🔄 **Backtracking** (9 problems)
-- Subsets, Combination Sum
-- Permutations, N-Queens
 
-### 🕸️ **Graphs** (15 problems)
-- Number of Islands, Clone Graph
-- Pacific Atlantic Water Flow, Course Schedule
+### 🕸️ **Graphs** (13 problems)
 
-### 🌐 **Advanced Graphs** (9 problems)
-- Reconstruct Itinerary, Min Cost to Connect All Points
-- Network Delay Time
+### 🌐 **Advanced Graphs** (6 problems)
 
 ### 📈 **1-D Dynamic Programming** (12 problems)
-- Climbing Stairs, House Robber
-- Coin Change, Longest Increasing Subsequence
 
-### 📊 **2-D Dynamic Programming** (8 problems)
-- Longest Common Subsequence, Edit Distance
-- Interleaving String
+### 📊 **2-D Dynamic Programming** (11 problems)
 
-### 🔧 **Bit Manipulation** (4 problems)
-- Single Number, Number of 1 Bits
-- Counting Bits, Missing Number
+### 🔧 **Bit Manipulation** (7 problems)
 
-### 📐 **Math & Geometry** (4 problems)
-- Rotate Image, Spiral Matrix
-- Set Matrix Zeroes
+### 📐 **Math & Geometry** (8 problems)
+
+### 📐 **Greedy** (8 problems)
+
+### 📐 **Intervals** (6 problems)
 
 ---
 
@@ -157,37 +125,6 @@ problems/
    g++ -std=c++17 problem-name.cpp -o solution
    ./solution
    ```
-
-### Running Tests
-```bash
-# Run all tests
-make test
-
-# Run specific category tests
-make test-arrays
-```
-
-### 📊 Automatic Progress Tracking
-
-The repository includes an automatic progress tracking system that updates your README.md whenever you add new solutions.
-
-**To update progress:**
-```bash
-# Using Python script
-python update_progress.py
-
-# Or on Windows, double-click:
-update_progress.bat
-```
-
-**What it does:**
-- ✅ Scans your `problems/` directory for `.cpp` files
-- ✅ Counts completed problems by category
-- ✅ Updates the progress table in README.md
-- ✅ Shows visual progress bars in terminal
-- ✅ Creates missing directory structure automatically
-
----
 
 ## 👨‍💻 Connect With Me
 
